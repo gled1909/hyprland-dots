@@ -4,11 +4,11 @@ This is my hyprland dotfiles
 
 ## Preview
 
-![preview picture 1](https://github.com/gled1909/hyprland-dots/blob/main/pictures/pictures/preview.png)
-![preview picture 2](https://github.com/gled1909/hyprland-dots/blob/main/pictures/pictures/preview2.png)
+![preview picture 1](https://github.com/gled1909/hyprland-dots/blob/main/pictures/preview.png)
+![preview picture 2](https://github.com/gled1909/hyprland-dots/blob/main/pictures/preview2.png)
 
 ### Waybar
-![picture of a beautiful waybar](https://github.com/gled1909/hyprland-dots/blob/main/pictures/pictures/waybar.png)
+![picture of a beautiful waybar](https://github.com/gled1909/hyprland-dots/blob/main/pictures/waybar.png)
 
 ### Installation
 
