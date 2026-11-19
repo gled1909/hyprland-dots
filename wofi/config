@@ -1,0 +1,20 @@
+show = drun
+monitor = DP-2
+
+width = 25%
+height = 30%
+location = center
+
+lines = 10
+columns = 1
+
+prompt = Поиск...
+
+allow_images = true
+image_size = 30
+single_click = true
+hide_scroll = true
+insensetive = true
+gtk-dark = true
+hide_duplicate=true
+allow_actions=false
