@@ -1,0 +1,1 @@
+Download lazyvim and move dashboard.lua into the plugins folder
