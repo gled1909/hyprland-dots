@@ -14,4 +14,4 @@ This is my hyprland dotfiles
 
 Idk how to make installer so download the configs and edit if there is full path with username, etc.
 
-For fish download config, fastfetch config and [tide](https://github.com/IlanCosman/tide).
+For fish download fastfetch config and [tide](https://github.com/IlanCosman/tide) and make sure that fastfetch is in autostart file.
