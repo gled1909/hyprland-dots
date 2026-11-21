@@ -4,7 +4,7 @@ This is my hyprland dotfiles
 
 ## Preview
 
-![preview picture 1](https://github.com/gled1909/hyprland-dots/blob/main/pictures/preview.png)
+![preview picture 1](https://github.com/gled1909/hyprland-dots/blob/main/pictures/preview)
 ![preview picture 2](https://github.com/gled1909/hyprland-dots/blob/main/pictures/preview2.png)
 
 ### Waybar
